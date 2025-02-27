@@ -44,10 +44,15 @@ main {
     bottom: 1rem;
     color: #ffffff;
     text-align: center;
+    width: 100%;
 }
 
-i {
-    color: #081b29;
+h2, h3 {
+    color: #00abf0;
+}
+
+h2 i, h3 i {
+    color: #00abf0;
 }
 
 .pessoais, .habilidades, .idiomas {
